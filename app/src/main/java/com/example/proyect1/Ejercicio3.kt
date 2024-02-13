@@ -1,5 +1,5 @@
 package com.example.proyect1
-
+import kotlin.math.sqrt
 fun suma(a: Double, b: Int): Double{
     return a + b
 }
@@ -12,8 +12,9 @@ fun multiplicacion(a: Double, b: Int): Double{
 fun division(a: Double, b: Int): Double{
     return a / b
 }
-fun raiz(a: Double, b: Int): Double{
-    return a + b
+fun raiz(a: Double): Double{
+    val squareRoot = sqrt(a)
+    return squareRoot
 }
 fun potencia(a: Double, b: Int): Double{
     var c: Double = 1.0
@@ -41,6 +42,6 @@ fun main(){
     println("$a restado $b es ${resta(a,b)} \n")
     println("$a multiplicado $b es ${multiplicacion(a,b)} \n")
     println("$a dividido $b es ${division(a,b)} \n")
-    println("La raiz $b de $a es ${raiz(a,b)} \n")
+    println("La raiz cuadrada de $a es ${raiz(a)} \n")
     println("$a elevado a la potencia de $b es ${potencia(a,b)} \n")
 }
