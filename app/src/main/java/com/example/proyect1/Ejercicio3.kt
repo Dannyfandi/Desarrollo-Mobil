@@ -1,6 +1,6 @@
 package com.example.proyect1
 import kotlin.math.sqrt
-fun suma(a: Double, b: Int): Double{
+/*fun suma(a: Double, b: Int): Double{
     return a + b
 }
 fun resta(a: Double, b: Int): Double{
@@ -32,7 +32,7 @@ fun potencia(a: Double, b: Int): Double{
             return 1.0
         }
 }
-
+*/
 fun main(){
     println("Ingresa el primer numero")
     var a= readLine()!!.toDouble()
