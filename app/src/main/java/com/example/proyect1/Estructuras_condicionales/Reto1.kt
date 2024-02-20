@@ -1,4 +1,4 @@
-package com.example.proyect1.Retos
+package com.example.proyect1.Estructuras_condicionales
 
 fun farenacel(temp: Int){
     var celcius: Double = (temp-32)/1.8

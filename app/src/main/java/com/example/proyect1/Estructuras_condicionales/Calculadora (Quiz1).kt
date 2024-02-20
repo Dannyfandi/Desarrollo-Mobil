@@ -1,4 +1,4 @@
-package com.example.proyect1.Quizes
+package com.example.proyect1.Estructuras_condicionales
 import kotlin.math.sqrt
 fun suma(a: Double, b: Int): Double{
     return a + b

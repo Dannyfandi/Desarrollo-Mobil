@@ -1,4 +1,4 @@
-package com.example.proyect1.Clases
+package com.example.proyect1.Estructuras_condicionales
 
 class Introduccion {
 }

@@ -1,11 +1,4 @@
-package com.example.proyect1.Retos
-
-import com.example.proyect1.Quizes.division
-import com.example.proyect1.Quizes.multiplicacion
-import com.example.proyect1.Quizes.potencia
-import com.example.proyect1.Quizes.raiz
-import com.example.proyect1.Quizes.resta
-import com.example.proyect1.Quizes.suma
+package com.example.proyect1.Estructuras_condicionales
 
 /*fun suma(a: Double, b: Int): Double{
     return a + b
