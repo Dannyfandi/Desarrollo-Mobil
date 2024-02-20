@@ -1,4 +1,4 @@
-package com.example.proyect1
+package com.example.proyect1.Quizes
 
 fun ganaroperder(apuesta: Int){
     var moneda: Int = (0 until 1).random()

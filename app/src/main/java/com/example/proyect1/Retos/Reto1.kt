@@ -1,4 +1,4 @@
-package com.example.proyect1
+package com.example.proyect1.Retos
 
 fun farenacel(temp: Int){
     var celcius: Double = (temp-32)/1.8

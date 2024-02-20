@@ -1,4 +1,4 @@
-package com.example.proyect1
+package com.example.proyect1.Quizes
 import kotlin.math.sqrt
 fun suma(a: Double, b: Int): Double{
     return a + b

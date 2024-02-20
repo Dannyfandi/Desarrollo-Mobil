@@ -1,4 +1,4 @@
-package com.example.proyect1
+package com.example.proyect1.Clases
 
 class Introduccion {
 }
